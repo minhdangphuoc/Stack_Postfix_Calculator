@@ -1,5 +1,5 @@
 # Stack_Profix_Calculator
-- This is a repository for PostFix calculator using Stack.
+- This is a repository for PostFix calculator using Stack data structure.
 - The source code is done for 5G00DM61-3003 Programming Languages 3.
 
 ## Concept
